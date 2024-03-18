@@ -1,6 +1,6 @@
 # personal-portfolio
 
-# [Melissa]'s GitHub Profile
+# Melissa's GitHub Profile
 
 Welcome to my GitHub profile! Here you'll find an overview of who I am, the projects I've worked on, and how to get in touch with me.
 
@@ -33,7 +33,7 @@ I'm passionate about building creative, interactive and innovative portfolio for
 Here's how you can explore my GitHub profile:
 
 1. **Repositories**: Check out my repositories to see the projects I've been working on.
-2. **Contributions**: Explore my contributions to other projects and repositories3
+2. **Contributions**: Explore my contributions to other projects and repositories
 3. **Collaborate**: If you're interested in collaborating on a project, feel free to reach out!
 
 ---
@@ -53,7 +53,7 @@ Here are some of the technologies I frequently work with:
 
 Feel free to reach out to me through the following channels:
 
-- **Email**: ddshahliza@gmail.com(mailto:ddshahliza@gmail)
+- **Email**: ddshahliza@gmail.com
 - **LinkedIn**: Melissa H(www.linkedin.com/in/melissa-lis)
   
 
