@@ -2,7 +2,7 @@
 
 # Melissa's GitHub Profile
 
-Welcome to my GitHub profile! Here you'll find an overview of who I am, the projects I've worked on, and how to get in touch with me.
+👋 Welcome to my Github profile! I'm Melissa, a passionate software engineer with a flair for merging technology with artistic expression. With a focus on Fine Arts portfolios, I specialize in crafting visually stunning and intuitive digital platforms for artists and creatives. Here you'll find an overview of who I am, the projects I've worked on, and how to get in touch with me.
 
 Visit  [ImMelissa.github.io](https://melissa230370.github.io/ImMelissa.github.io/)
 
@@ -18,7 +18,8 @@ Visit  [ImMelissa.github.io](https://melissa230370.github.io/ImMelissa.github.io
 
 ## Introduction
 
-I'm passionate about building creative, interactive and innovative portfolio for Fine Arts. Through my GitHub profile, I share my projects, explore new technologies, and collaborate with others in the community.
+I'm passionate about building creative, interactive and innovative portfolio for Fine Arts. Through my GitHub profile, I share my projects, explore new technologies, and collaborate with others in the community. My expertise spans front-end development, where I excel in HTML, CSS, and JavaScript, as well as back-end technologies like Python.
+I'm dedicated to pushing the boundaries of digital art presentation while ensuring seamless functionality and user experience. Join me on this journey of innovation and creativity!
 
 ---
 
